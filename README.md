@@ -28,7 +28,7 @@ Q8.Which sport is having most female Gold Medalists? (Top 5)
 # About Me
 Hi, I am Shivani Saha , Currently I am a Intern under Etg-Skill India .
 # Links
-Linkdin:-https://www.linkedin.com/in/shivani-saha-0125941b1
-GitHub:-https://github.com/shivani-prog/shivani-prog
+- Linkdin:-https://www.linkedin.com/in/shivani-saha-0125941b1
+- GitHub:-https://github.com/shivani-prog/shivani-prog
 
 
