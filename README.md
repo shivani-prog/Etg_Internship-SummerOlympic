@@ -23,8 +23,8 @@ Q7.Which event is most popular in terms on number of players? (Top 5)
 
 Q8.Which sport is having most female Gold Medalists? (Top 5)
 # Libraries Used:-
--Pandas
--Matplotlib
+- Pandas
+- Matplotlib
 # About Me
 Hi, I am Shivani Saha , Currently I am a Intern under Etg-Skill India .
 # Links
