@@ -4,7 +4,7 @@ This repository is having all the codes used in AL/ML Skill India Scholarship As
 ## About This Repository
 You'll Learn pandas,matplotlib,NoSQL databases,Files handling.
 # Files
-- Olympic.ipyn
+- Olympic.ipynb
 - summer.csv
 # Queries Solved
 Q1.In how many cities Summer Olympics is held so far?
